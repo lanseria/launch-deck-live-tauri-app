@@ -1,0 +1,1 @@
+# LaunchDeck Live Tauri App
