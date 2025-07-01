@@ -1,5 +1,5 @@
 {
-	 "files.associations": {
+  "files.associations": {
     "*.css": "postcss"
   },
 
@@ -39,7 +39,7 @@
     "jsonc",
     "yaml"
   ],
-	"cSpell.words": [
-		"tauri"
-	]
+  "cSpell.words": [
+    "tauri"
+  ]
 }
