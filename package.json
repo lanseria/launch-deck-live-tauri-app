@@ -4,8 +4,8 @@
   "version": "0.0.0",
   "private": true,
   "packageManager": "pnpm@10.12.4",
-  "description": "Starter template for Nuxt 3 and Tauri 2",
-  "author": "Nicola Spadari",
+  "description": "",
+  "author": "Lanseria",
   "license": "MIT",
   "engines": {
     "node": ">=22"
@@ -31,7 +31,6 @@
     "@tauri-apps/plugin-store": "catalog:",
     "nuxt": "catalog:",
     "vue": "catalog:",
-    "vue-router": "catalog:",
     "zod": "catalog:"
   },
   "devDependencies": {

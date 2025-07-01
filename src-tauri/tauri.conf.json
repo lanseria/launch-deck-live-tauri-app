@@ -29,7 +29,7 @@
     "beforeBuildCommand": "pnpm generate",
     "frontendDist": "../dist",
     "beforeDevCommand": "pnpm dev",
-    "devUrl": "http://localhost:3000"
+    "devUrl": "http://localhost:10631"
   },
   "productName": "LaunchDeck Live Tauri App",
   "version": "0.0.0",
